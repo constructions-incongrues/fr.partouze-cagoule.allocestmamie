@@ -1,0 +1,16 @@
+{
+  "name": "fr.partouze-cagoule.allocestmamie",
+  "version": "0.0.0",
+  "authors": [
+    "Tristan Rivoallan <tristan@rivoallan.net>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
